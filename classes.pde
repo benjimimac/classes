@@ -3,5 +3,5 @@ void setup(){
 }
 
 void draw(){
-  
+  text("Hello Ben", 100, 100);
 }
